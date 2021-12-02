@@ -4,11 +4,18 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #CADEEE;
+}
+
 section{
     width: 70%;
     margin: 0 auto;
     text-align: center;
     margin-top: 20vh;
+    padding-bottom: 17px;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 26px;
 }
 
 .title{
@@ -27,7 +34,7 @@ span{
 
 .subtitle{
     font-weight: bold;
-    color: red;
+    color: #d7001a;
 }
 
 .stylepassword{
