@@ -1,8 +1,7 @@
 let myName = prompt ('inserisci nome');
 let mySurname = prompt ('inserisci cognome');
 let myFavouriteColor = prompt ('inserisci il tuo colore preferito');
-let myAge = prompt ('inserisci la tua età');
-let createPassword = myName + mySurname + myFavouriteColor + myAge;
+let createPassword = myName + mySurname + myFavouriteColor;
 
-document.getElementById ('password'). innerHTML = createPassword;
+document.getElementById ('password'). innerHTML = createPassword + 21;
 

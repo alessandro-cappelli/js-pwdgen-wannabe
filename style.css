@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+div{
+    margin-top: 60px;
+}
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.subtitle{
+    font-weight: bold;
+    color: red;
+}
